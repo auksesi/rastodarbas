@@ -1,0 +1,279 @@
+---
+title: "Skirtingų turistų tipų LR statistika"
+author: "Auksė Simanavičiūtė"
+date: "6/17/2019"
+output:
+  pdf_document:
+    toc_depth: 2
+    
+fontsize: 14pt
+bibliography: turizmas.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+\newpage
+##KONTEKSTAS
+
+Turizmo sektoriaus plėtra yra neatsiejama nuo šalies ekonomikos augimo. Augant turizmo sektoriui sukuriamos papildomos darbo vietos, pritraukiami turistų srautai, skatinamas vartojimas, o visa tai atneša pajamas į šalies ar vietos biudžetus. (@gulbinienenacionalines) Turizmas neabejotinai suteikia didžiulę ekonominę naudą šaliai, darydamas tiesioginę įtaką pramonės šakoms arba netiesioginę per turizmo išlaidas. Tačiau ekonominė nauda nėra vienintelis turizmo privalumas, apie kurį galime diskutuoti. Dėmesio vertas bei labai svarbus yra ir sociokultūrinis turizmo poveikis. Turizmas didina socialinę integraciją, skatina žmonių pasaulio suvokimo, akiračio plėtrą, ugdo pilietines vertybes, toleranciją. Per turizmą žmonės turi galimybę susipažinti su naujomis kultūromis bei plėsti pažinčių ratą. 
+
+##DARBO TIKSLAS
+
+Turizmas kiekvienai šaliai yra svarbus ne tik atvykstamasis, bet ir vietinis, bei išvykstamasis. Todėl šiame rašto darbe ir stengsiuosi parodyti, kokie skirtingi statistikos duomenys vyrauja kiekvienai turistų grupei Lietuvoje, aptarti jų pokyčių galimybes. 
+
+\pagebreak
+
+##LIETUVOS RESPUBLIKOS TURISTŲ TIPAI
+
+\begin{center}
+
+Vietiniai
+
+\end{center}
+
+Vietiniai turistai renkasi labiau pažinti Lietuvą ir keliauja kelioms dienoms į įvairius savo gimtos šalies kampelius. Gyvenantys didžiuosiuose miestuose, vietiniai turistai, norėdami pabėgti nuo jų šurmulio, renkasi važiuoti į kaimus, sodybas, mažesnius miestelius. Dažnai apsistoja prie ežerų, jie ieško ramybės. Priešingai elgiasi kaimelių, mažesnių miestelių žmonės. Jie šiuo atveju ieško šurmulio arba nori "pasikultūrinti". Kaip žinia teatrai, muziejai, koncertai, kino salės yra tik didžiuosiuose miestuose. Taip pat tėvai lankydami savo studentus vaikus, kurie studijuoja miestuose, tampa vietinių turistų skaičiaus dalimi. Šiuos žmones į miestus skatina atvykti ir naujai atidaromi, restauruoti objektai: muziejai, bažnyčios, modernūs pastatai ir kitos lankomos vietos. Kiekvienam išsilavinusiam Lietuviui svarbu pažinti savo šalį, o ją geriausiai pažinsi tik keliaudamas ir lankydamas istorines jos vietas, bei pamatydamas archajiškus objektus disponuojamus muziejuose.
+
+\begin{center}
+Atvykę
+\end{center}
+
+Turistai gali būti ir atvykę, tai užsieniečiai, kurie dažniausiai renkasi įžymiausias Lietuvos vietas, kad prisiliestų prie lietuviškos kultūros. Ši turistų rūšis turi tendenciją rinktis kurortinius miestus ypač tuos, kurie siūlo sveikatingumo paslaugas ir SPA – Birštonas, Druskininkai. Vasarą turistai linkę rinktis Palangą, Nidą, Šventają dėl galimybės būti arti Baltijos jūros. Žinoma, Lietuvos sotinė – Vilnius, visais metų laikais yra populiariausias turistų pasirenkamas miestas Lietuvoje. Vilnius, Kaunas ir Palanga yra patogus turistų pasirinkimas ir dėl juose esančių oro uostų. Į Lietuvą žmonės turi galimybę atvykti ir Klaipėdos uosto pagalba. Turistus vilioja tai, kad Lietuva yra Europos centras. Taip pat šalyje yra unikalių objektų, neegzistuojančių niekur kitur pasaulyje, kaip pvz.: Kryžių kalnas (Šiauliai), Raganų kalnas (Juodkrantė). Žinoma, Lietuva gali pasigirti gražiu kraštovaizdžiu, turistams iš tokių šalių kaip Japonija , kur miestų plėtimas dėl didelio gyventojų skaičiaus naikina jų gamtą. Didžiajai daliai atvykstančių turistų, ypač tiems iš Vakarų, Lietuva patraukli dėl mažų kainų, kurios vietiniams turistams, gali pasirodyti didelės. 
+
+\begin{center}
+Išvykę
+\end{center}
+
+Taip pat yra ir išvykusių Lietuvos turistų, kurie važiuoja į kitas šalis plėsti savo akiračio, pamatyti kitus papročius, kurti naują pažinčių ratą. Į kitas šalis žmonės išvažiuoja komandiruotėms, kuriose užsimezga nauji verslo ryšiai. Studijuojantiems žmonėms yra sudarytos puikios sąlygos praplėsti savo žinias užsienio šalyse, studijuojant ir tuo pačiu susipažįstant su nauja šalimi - jos kultūra, papročiais, jos istorija. Taip pat sportuojant, užsiimant menine veikla yra tarptautinės galimybės išvykti iš savo šalies, taip pasirodant kitai auditorijai ir pakeliaujant naujoje šalyje. Lietuvos turistai dažnai renkasi kaimynines šalis dėl ekonominių priežasčių, pavyzdžiui dėl mažų kainų. Tokiu būdu, jie apsiperka ir išnaudoja tą progą susipažinimui su svetima šalimi. Dar viena priežastis trumpam pakeisti aplinką yra emigravusių giminių lankymas, tokiu būdu vieną ar kelis kartus per metus žmonės tampa išvykstančių turistų vienetais. Viena iš populiariausių išvykstamojo turizmo priežasčių yra klimatas. Žiemą žmonės dažnai nori atitrūkti nuo šalčio, tad renkasi šalis garsėjančias geromis oro sąlygomis, kaip aukšta temperatūra, saulėtos dienos. Taip pat juos vilioja tokie kelionių paketai, kaip “Viskas įskaičiuota”, kuris dažnai pasitaiko Turkijoje, Egipte. Vietiniai gyventojai dažnai nepasitenkina savo šalyje esančiais paplūdimiais ir kainų pasiūla, tad renkasi turistauti užsienio valstybese. Tačiau kitiems, adrenalino fanatikams, Lietuvoje trūksta sąlygų. Slidininkams – žiema yra per trumpa, ir trūksta kalnuotų vietovių. Nardytojams Baltijos jūra yra nepalanki jų hobiui. Be to daugiau ir įvairesnių gamtos reiškinių yra už Lietuvos ribų: kriokliai, ugnikalniai, krateriai, dykumos, džiunglės ir t.t. Dar išvykusiems turistams priklauso žmonių grupė, kurie reguliariai keliauja tiesiog dėl pramogos, kaupdami įspūdžius, istorijas. Šie žmones tą sukauptą medžiagą perteikia įvairiai auditorijai skirtingais būdais: knygose, "podcast’uose", blog’uose, socialiniuose tinkluose, televizijų laidose. Išvykstamasis turizmas populiarus dėl kelių veiksnių. Socialine prasme, dėl naujų pažinčių, kurios ateityje gali padėti verslo plėtrai, pasaulio pažinimui. Ekonomine prasme - idėjų parsivežimas iš svetimų šalių, kurios įkvepia naujų produktų kūrimui, naujų investuotojų pritraukimui. 
+
+
+
+
+##TURISTŲ SKAIČIUS
+
+Tad aptarę įvairių turistų grupes, galime detaliau išnagrinėti kokios turistų tendencijos vyravo 2007-2017metais. Verta paminėti, kad turizmo sektorių, kaip ir kitus ekonominius sektorius, valstybiniu mastu veikia įvairūs tiek vidiniai, tiek išoriniai veiksniai. Literatūros analizėje pateikiama informacija, kad turizmo plėtrai įtaką daro ekonominiai, socialiniai, aplinkos ir kultūriniai veiksniai. (@romikaityte2012lietuvos) Pavyzdžiui infliacija, BVP augimas, emigracija, klimatas. 
+
+
+```{r echo=FALSE, error = FALSE}
+#Parsiunciami reikalingi paketai
+if(!require(eurostat)) install.packages("eurostat") ; require(eurostat)
+if(!require(tidyverse)) install.packages("tidyverse") ; require(tidyverse)
+if(!require(rsdmx)) install.packages("rsdmx") ; require(rsdmx)
+if(!require(openxlsx)) install.packages("openxlsx") ; require(openxlsx)
+if(!require(dplyr)) install.packages("dplyr") ; require(dplyr)
+if(!require(ggplot2)) install.packages("ggplot2") ; require(ggplot2)
+if(!require(tidyr)) install.packages("tidyr") ; require(tidyr)
+```
+
+```{r echo=FALSE, results='hide',message=FALSE}
+#Duomenu failo atsiuntimas ir issaugojimas
+#url <- "https://osp-rs.stat.gov.lt/rest_xml/dataflow/"
+#meta <- as.data.frame(meta)
+#write.xlsx(meta, "LSD_meta.xlsx")
+
+#Duomenu parsiuntimas is LSD, ju redagavimas(suvienodinimas)
+# S8R500_M4091505_1	 - Vietinių turistų skaičius || Suminis (2004 - 2017) 
+VIETINIAI <- readSDMX(providerId ="LSD", 
+                      resource = "data", 
+                      flowRef = "S8R500_M4091505_1", 
+                      dsd = FALSE)
+VIETINIAI <- as.data.frame(VIETINIAI)
+VIETINIAI <- VIETINIAI %>% filter(LAIKOTARPIS > "2006-01-01") 
+
+
+ATVYKE <- readSDMX(providerId ="LSD", 
+                   resource = "data", 
+                   flowRef = "S8R701_M4091301_1", 
+                      dsd = FALSE)
+ATVYKE <- as.data.frame(ATVYKE)
+ATVYKE <- ATVYKE %>% filter(LAIKOTARPIS > "2006-01-01")
+
+ISVYKE <- readSDMX(providerId ="LSD", 
+                   resource = "data", 
+                   flowRef = "S8R709_M4091101_1", 
+                      dsd = FALSE)
+ISVYKE <- as.data.frame(ISVYKE)
+ISVYKE <- ISVYKE %>% filter(LAIKOTARPIS > "2006-01-01")
+
+#Sukursiu bendra duomenu lentele, kuri atvaizduotu visu rusiu turistu skaiciu Lietuvoje
+dt<- data.frame(VIETINIAI, ISVYKE, ATVYKE)
+dt <- dt %>% select(-c(1,4,5,6,8,9,10,12))
+names(dt)[2]<-paste("Vietiniai")
+names(dt)[3]<-paste("Isvyke")
+names(dt)[4]<-paste("Atvyke")
+
+```
+
+
+```{r echo=FALSE, results='hide',message=FALSE}
+#Sukursiu grafika atspindinti gauta duomenu lentele dt. 
+
+ggplot(dt, aes(LAIKOTARPIS, y = value, color = Turistu_tipai)) + 
+  geom_point(aes(y = Vietiniai, col = "Vietiniai")) + 
+  geom_point(aes(y = Atvyke, col = "Atvyke"))+
+  geom_point(aes(y = Isvyke, col = "Isvyke"))+
+  labs(title = "Isvykusiu, atvykusiu ir vietiniu turistu skaicius Lietuvoje 2007-2017m.",
+       subtitle = "Lietuvos statistikos departamentas",
+       x="Metai", y = "Turistu skaicius")
+
+
+
+```
+
+Grafike galime pastebėti, kad vietinių turistų skaičius sąlyginai nėra smarkiai kintantis. Įsibėgėjus pasaulinei krizei 2009m. Lietuvoje vietinių turistų keliavimo tempas drastiškai krito. Nuo to laiko vietiniai turistai tarp visų turistų grupių laikosi grafiko apačioje. 
+
+Tačiau išvykusių ir atvykusių turistų skaičius yra tikrai netolygus. 
+Kalbant apie išvykusius turistus, jie lyderiauja 2007-2011m., tačiau šis augimas nėra nuoseklus. 2007-2008m. pastebime spartų augimą ir 2008m. pasiekiama bendra turistų skaičiaus viršūnė šiuo laikotarpiu Lietuvoje. Tuo tarpu 2009m. pastebime stiprų išvykstančių skaičių nukritimą, tokią statistiką galėjo įtakoti tuo metu vyraujanti pasaulinė krizė, infliacija. To pasekoje 2010m. Lietuvoje smarkiai išaugo emigracija ir žmonės Lietuvoje keliavo aplankyti savo  artimųjų į kitas šalis, taip galimai tapdami dalimi išvykstančių turistų. Tačiau galime pastebėti drastišką išvykstančių turistų pokytį 2012m. Viena iš priežasčių, kurią galime numanyti, banko “Snoro” žlugimas ir žmonės neteko daug pinigų. Išvykstančių turistų skaičius nebėra aukštumoje kaip buvo prieš krizės laikotarpį. Jis tapo tolygiai augantis.
+
+Atvykusių turistų skaičius 2007m. nebuvo dominuojantis tarp bendrų Lietuvos turistų duomenų, tačiau jis buvo augantis. Tačiau 2009m. kaip ir visų kitų turistų grupių, skaičius drastiškai sumažėjo. Tai taipogi greičiausiai įtakojo pasaulinė krizė. Gera žinia, kad 2011m. atvykstančių turistų skaičius smarkiai šoktelėjo ir be to tuo metu Lietuvoje turistų srautai augo sparčiausiai Europoje. (@paulauskiene2013turizmo). 2012-2015m. atvykstančių turistų skaičius lyderiauja grafike. Prie to galėjo prisidėti turizmo programos: Nacionalinė turizmo plėtros 2010-2013m. ir 2014-2020m. Nesmarkus atvykstančių turistų sumažėjimas pastebimas 2015m. Tai galėjo lemti 2015m. Lietuvos įstojimas į eurozoną. Sumažėjimas nebuvo didelis, nes daugumai Europos šalių tai buvo tik privalumas, tačiau kitoms šalims ypač rytuose - sukėlė nepatogių pokyčių. Euro įvedimas įtakojo kainų kilimą. Tačiau jų įtaką infliacijai buvo nedidelė ir laikina dėl to 2016m. atvykstančių turistų skaičius atsistatė ir sparčiai didėjo. (@kuodis2005euro)
+
+ 
+ 
+##TURISTŲ IŠLAIDOS 
+
+Dideli užsienio turistų srautai ir nemažos jų išlaidos daro poveikį lankomos šalies apgyvendimo ir maitinimo įstaigoms, surenkamų mokesčių ir gaunamų pajamų dydžiui, užimtumui. (@markauskiene2012atvykstamojo) Turistų skaičius turi įtakos šalies pajamoms, užimtumui, investicijai ir plėtrai. Turizmo poveikio šalyje svarba ir poveikis nustatomas atsižvelgiant į turistų išlaidų, turizmo veiklos pajamų ir kitų dalių palyginimu su atitinkamais šalies rodikliais. (@labanauskaite2008lietuvos) Tuo norima pasakyti, kad svarbus ne tik turistų skaičius, bet ir išleistos jų sumos keliaujant. 
+
+```{r echo=FALSE, results='hide', message=FALSE}
+if(!require(eurostat)) install.packages("eurostat") ; require(eurostat)
+if(!require(tidyverse)) install.packages("tidyverse") ; require(tidyverse)
+if(!require(rsdmx)) install.packages("rsdmx") ; require(rsdmx)
+if(!require(openxlsx)) install.packages("openxlsx") ; require(openxlsx)
+if(!require(dplyr)) install.packages("dplyr") ; require(dplyr)
+if(!require(ggplot2)) install.packages("ggplot2") ; require(ggplot2)
+if(!require(tidyr)) install.packages("tidyr") ; require(tidyr)
+if(!require(knitr)) install.packages("knitr") ; require(knitr)
+
+# Sukursiu duomenu lenteles suminei kievienos grupiu turistu islaidu skaiciui
+islaidos_vtn <- readSDMX(providerId ="LSD", 
+                      resource = "data", 
+                      flowRef = "S8R495_M4091505_2", 
+                      dsd= TRUE)
+islaidos_vtn <- as.data.frame(islaidos_vtn)
+islaidos_vtn <- islaidos_vtn %>% filter(LAIKOTARPIS > "2006-01-01") 
+
+islaidos_atvk <- readSDMX(providerId ="LSD", 
+                         resource = "data", 
+                         flowRef = "S8R694_M4091301_3", 
+                         dsd= TRUE)
+islaidos_atvk<- as.data.frame(islaidos_atvk)
+islaidos_atvk <- islaidos_atvk %>% filter(LAIKOTARPIS > "2006-01-01") 
+
+islaidos_isvk <- readSDMX(providerId ="LSD", 
+                          resource = "data", 
+                          flowRef = "S8R706_M4091101_3", 
+                          dsd= TRUE)
+islaidos_isvk<- as.data.frame(islaidos_isvk)
+islaidos_isvk <- islaidos_isvk %>% filter(LAIKOTARPIS > "2006-01-01")
+
+# Sukursiu duomenu lenteles kiekvienai grupiu turistu dienos islaidu sumai
+vidut_dienos_vtn <- readSDMX(providerId ="LSD", 
+                           resource = "data", 
+                           flowRef = "S8R501_M4091505_3", 
+                           dsd= TRUE)
+vidut_dienos_vtn<- as.data.frame(vidut_dienos_vtn)
+vidut_dienos_vtn <- vidut_dienos_vtn %>% filter(LAIKOTARPIS > "2006-01-01")
+
+
+vidut_dienos_atvk <- readSDMX(providerId ="LSD", 
+                             resource = "data", 
+                             flowRef = "S8R698_M4091301_2", 
+                             dsd= TRUE)
+vidut_dienos_atvk<- as.data.frame(vidut_dienos_atvk)
+vidut_dienos_atvk <- vidut_dienos_atvk %>% filter(LAIKOTARPIS > "2006-01-01")
+
+
+vidut_dienos_isvk <- readSDMX(providerId ="LSD", 
+                              resource = "data", 
+                              flowRef = "S8R710_M4091101_2", 
+                              dsd= TRUE)
+vidut_dienos_isvk<- as.data.frame(vidut_dienos_isvk)
+vidut_dienos_isvk <- vidut_dienos_isvk %>% filter(LAIKOTARPIS > "2006-01-01")
+
+
+#Sukursiu duomenu lenteles kiekvienai grupiu turistu vienos keliones vidutiniu islaidu sumai
+vidut_keliones_vtn <- readSDMX(providerId ="LSD", 
+                              resource = "data", 
+                              flowRef = "S8R502_M4091505_3", 
+                              dsd= TRUE)
+vidut_keliones_vtn<- as.data.frame(vidut_keliones_vtn)
+vidut_keliones_vtn <- vidut_keliones_vtn %>% filter(LAIKOTARPIS > "2006-01-01")
+
+vidut_keliones_atvk <- readSDMX(providerId ="LSD", 
+                               resource = "data", 
+                               flowRef = "S8R697_M4091301_2", 
+                               dsd= TRUE)
+vidut_keliones_atvk<- as.data.frame(vidut_keliones_atvk)
+vidut_keliones_atvk<- vidut_keliones_atvk %>% filter(LAIKOTARPIS > "2006-01-01")
+
+vidut_keliones_isvk <- readSDMX(providerId ="LSD", 
+                                resource = "data", 
+                                flowRef = "S8R711_M4091101_2", 
+                                dsd= TRUE)
+vidut_keliones_isvk <- as.data.frame(vidut_keliones_isvk)
+vidut_keliones_isvk <- vidut_keliones_isvk %>% filter(LAIKOTARPIS > "2006-01-01")
+
+
+```
+
+\begin{center}
+Pirma lentelė
+\end{center}
+```{r, echo=FALSE}
+#sukuriu bendra lentele atspindincia kiekvienos grupes sumines islaidas
+islaidos<- data.frame(islaidos_atvk, islaidos_isvk, islaidos_vtn)
+islaidos <- islaidos%>% select(-c(1,4,5,6,8,9,10,12))
+names(islaidos)[2]<-paste("Atvyke")
+names(islaidos)[3]<-paste("Isvyke")
+names(islaidos)[4]<-paste("Vietiniai")
+islaidos <- islaidos %>% arrange(LAIKOTARPIS)
+islaidos
+
+```
+
+Čia galima matyti suminę turistų išlaidų metinę lentelę. Pirmu žvilgsniu ji gali pasirodyti nelabai informatyvi, nes nėra labai konkreti. Tačiau vis tiek galime padaryti keletą prielaidų. Vietinių turistų išlaidų lentelė susideda iš įvairių išlaidų rūšių, tokių kaip transportas, maistas, gėrimai, apgyvendinimas, kiti turisto poreikių tenkinimai kelionėje. Pirmoji būtų, tokia kad vietiniai turistai Lietuvoje išleidžia gana mažai, lyginant su atvykusiais ir išvykusiais turistais. Vietinių turistų išlaidos nėra smarkiai kintančios ir niekada 2007-2017m. laikotarpiu nesiekė 200mln EUR, tačiau ir nėra mažesnė nei 100mln. EUR per metus. Be to galime pastebėti, kad vietinių turistų išlaidos po pasaulinės krizės kiekvienais metais vis didėja. 
+Statistiškai didžiausia išlaidų suma kiekvienais metais yra išvykusių turistų. Jų išlaidos susideda iš transporto, laisvalaikio ir kultūros, apgyvendinimo, asmeninių pirkinių, ir paslaugų paketų. Išvykusių Lietuvos turistų išlaidos kiekvienais metais nuo 2009m. tik auga. Atvykusių turistų išlaidos yra vienos svarbiausių Lietuvai, nes jos atneša pinigus į Lietuvos biudžetą, didina BVP. Atvykusių turistų suminės išlaidos pagal LSD susideda iš vizos, transporto, laisvalaikio ir kultūros, maisto, gėrimų, apgyvendinimo ir kt. turisto pirkinių. Kaip ir kitų turistų atvejais nematome kažkokių didelių nukrypimų. Išlaidų augimas buvo tolygus nuo 2009m. ir tik 2015m. buvo išleista kiek mažiau, bet kaip anksčiau pastebėjome grafike, kad tuo metu ir atvykusių turistų skaičius buvo sumažėjęs. 
+
+\newpage
+\begin{center}
+Antra lentelė
+\end{center}
+
+```{r, echo=FALSE}
+#sukuriu bendra lentele atspindincia kiekvienos grupes vidutines dienos islaidas
+vidut_dienos <- data.frame(vidut_dienos_atvk, vidut_dienos_isvk, vidut_dienos_vtn)
+vidut_dienos <- vidut_dienos %>% select(-c(1,4,5,6,8,9,10,12))
+names(vidut_dienos)[2]<-paste("Atvyke")
+names(vidut_dienos)[3]<-paste("Isvyke")
+names(vidut_dienos)[4]<-paste("Vietiniai")
+vidut_dienos <- vidut_dienos %>% arrange(LAIKOTARPIS)
+vidut_dienos
+```
+
+Ši lentelė atspindi vidutines turistų dienos išlaidas nuo 2007-2017m. Pastebime, kad Lietuvos turistai keliaudami tiek savo šalyje, tiek svetimoje linkę, turi galimybę išleisti mažiau, nei atvykę turistai. Vietinių turistų vidutinė dienos išleista suma neviršija 30 EUR. Atvykę turistai nuo 2011m. keliaudami Lietuvoje kiekvieną dieną vidutiniškai išleidžia nuo 80 EUR. Į kitas šalis išvykę turistai nei vienais metais neviršija vidutinės 80 EUR sumos. Galime daryti išvadą, kad nors suminėje metinėje turistų išlaidų lentelėje išvykę turistai išleidžia daugiausiai, žiūrint į vidutinę dienos išlaidų statistiką, atvykusių turistų išlaidos yra didžiausios. 
+
+\begin{center}
+Trečia lentelė
+\end{center}
+
+```{r, echo=FALSE}
+#sukuriu bendra lentele atspindincia kiekvienos grupes vidutines vienos keliones islaidas
+vidut_keliones <- data.frame(vidut_keliones_atvk, vidut_keliones_isvk, vidut_keliones_vtn)
+vidut_keliones<- vidut_keliones %>% select(-c(1,4,5,6,8,9,10,12))
+names(vidut_keliones)[2]<-paste("Atvyke")
+names(vidut_keliones)[3]<-paste("Isvyke")
+names(vidut_keliones)[4]<-paste("Vietiniai")
+vidut_keliones <- vidut_keliones %>% arrange(LAIKOTARPIS)
+vidut_keliones
+```
+
+
+Čia galime matyti paskutinę lentelę, kuri atspindi kiekvienos grupės vidutinę vienos kelionės išlaidų sumą. Pastebime, kad pagal sumą lyderiauja išvykstantys turistai. Didžiausią išleistą sumą gali nulemti, kad lietuviai išvykdami į kitą šalį dažnai renkasi įvairius atostogų paketus, už kuriuos iškart susimoka. Todėl jų kelionės dienos išleidžiama vidutinė suma nebebūna tokia didelė. Tuo tarpu atvykdami turistai į Lietuvą tam neišleidžia tiek daug, tad kelionės vidutinė suma nuo 2007 iki 2017 nepasiekia net 400 EUR. 
+
+
+##IŠVADA
+
+Turizmas – viena stambiausių pasaulio ekonomikos šakų, kuri Pasaulio Turizmo Organizacijos (PTO) duomenimis, kasmet įdarbina iki 10 proc. pasaulio darbo jėgos bei sukuria 7 proc. pasaulinio bendrojo vidaus produkto. (@romikaityte2012lietuvos) Yra trys turistų tipai atvykę, išvykę ir vietiniai. Kiekviena turistų grupė daro skirtingą įtaką šaliai, jos ekonomikai, socialinei raidai. Apibendrant visų grupių turistų skaičių per metus, bei jų išlaidas pastebima, kad abu rodikliai yra augantys. 
+
+\pagebreak
+
+##LITERATŪRA
